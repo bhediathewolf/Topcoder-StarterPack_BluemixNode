@@ -24,4 +24,4 @@ paths:
             type: object
             properties:
               success:
-                type: boolean
+                  $ref: '_bhedia'
